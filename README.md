@@ -20,11 +20,14 @@ Click on the social media icons in the footer to follow "EPIC SOUND" on various 
 - The use of high-quality images, a cohesive color scheme, and modern typography enhances the visual appeal of the website 🎨😍.
 - 🖱️✨Images have hover effects that create an interactive experience, encouraging users to engage with the content.
 ## Technologies used:
+
 - JavaScript
 - Html
 - Css3
 - Bootstrap
 
 ## Demo
-   https://ruthranayaki03.github.io/Landing-Page/
+   [CLICKHERE](https://ruthranayaki03.github.io/Landing-Page/)
+## Preview
+![Capture](https://github.com/user-attachments/assets/e1885d0c-c8b7-4b10-95ac-568d8e59f63e)
 
